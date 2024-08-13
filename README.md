@@ -3,3 +3,20 @@ There are still many phenomena of default events in the credit utilization proce
 Documentaion
 1. Login Page
    ![alt text](pict/Login.png?raw=true)
+   
+3. Sign Up Page
+   ![alt text](pict/Signup.png?raw=true)
+   
+5. Dashboard
+   ![alt text](pict/dashboard.png?raw=true)
+
+
+How to run :
+1. Copy Repository
+   >gitclone https://github.com/sengkunii/Loan_Predict_Project.git
+
+2. Install Depedensy
+   >pip install -r requirements.txt
+
+3. Run streamlit
+   >streamlit run app.py
